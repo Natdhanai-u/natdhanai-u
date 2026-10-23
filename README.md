@@ -8,4 +8,11 @@ I enjoy visualizing and explaining what I'm learning by writing things down, bre
 
 ## Technologies & Development Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,powershell,bash,neovim,vscode,pytorch,sklearn,py,c,cpp,html,css,javascript,obsidian,gmail,discord)](https://skillicons.dev)
+### Language I Work With 
+![Languages](https://skillicons.dev/icons?i=py,pytorch,sklearn,c,cpp,3&theme=dark)
+
+### Currently Learning 
+![Learning](https://skillicons.dev/icons?i=rust&theme=dark)
+
+### Tools & Environment 
+![Tools](https://skillicons.dev/icons?i=git,github,windows,linux,powershell,neovim,vscode,obsidian,gmail,discord&theme=dark)
