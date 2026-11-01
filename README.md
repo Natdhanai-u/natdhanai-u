@@ -13,8 +13,5 @@ I enjoy visualizing and explaining what I'm learning by writing things down, bre
 ### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=py,c,cpp&theme=dark)
 
-### Currently Learning
-![Learning](https://skillicons.dev/icons?i=rust&theme=dark)
-
 ### Development Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,windows,linux,powershell,neovim,vscode,obsidian,gmail,discord&theme=dark)
