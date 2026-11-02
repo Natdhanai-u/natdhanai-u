@@ -14,4 +14,4 @@ I enjoy visualizing and explaining what I'm learning by writing things down, bre
 ![Languages](https://skillicons.dev/icons?i=py,c,cpp&theme=dark)
 
 ### Development Tools
-![Tools](https://skillicons.dev/icons?i=git,github,windows,linux,powershell,neovim,vscode,obsidian,gmail,discord&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,windows,linux,powershell,neovim,vscode&theme=dark)
