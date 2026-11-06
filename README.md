@@ -11,7 +11,7 @@ I enjoy visualizing and explaining what I'm learning by writing things down, bre
 ## Technologies & Development Tools 
 
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=py,c,cpp,html,css,js&theme=dark)
+![Languages](https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark)
 
 ### Development Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,windows,linux,powershell,neovim,vscode&theme=dark)
